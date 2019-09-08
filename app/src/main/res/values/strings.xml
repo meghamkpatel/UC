@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UC</string>
+    <string name="action_settings">Settings</string>
+        <string-array name="small">
+            <item>Inch</item>
+            <item>Shaquille</item>
+            <item>Human Tongue</item>
+            <item>Small Intestine</item>
+            <item>Cockroach</item>
+        </string-array>
+        <string-array name="large">
+            <item>Machu Picchu</item>
+            <item>Collosseum</item>
+            <item>Marathon</item>
+            <item>T-Rex</item>
+        </string-array>
+</resources>
