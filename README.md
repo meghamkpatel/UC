@@ -12,3 +12,5 @@ Day 5: Apply Fun Converter to the basic converter
 Day 6: Apply Fun Converter to the basic converter
 Day 7: Fix errors: convert method not working
 Day 8: Fix errors: trying to figure out how to make a string with spaces into enum, Finish!
+
+![UC1](UC1.PNG) ![UC2](UC2.PNG) ![UC3](UC3.PNG)
